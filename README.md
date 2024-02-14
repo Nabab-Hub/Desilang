@@ -218,7 +218,6 @@ ses korlam```
 
 <h2 align="center">Add your own keywords <h2>
 <p align="center">If you want to add your own keyword in this language, then you can change with your own keyword. Because here I provide all the source code .java files. 
-
-To create your own `keywords` just edit keywords.java file.
+To create your own <code>keywords</code> just edit keywords.java file.
 there you can find all the keywords with there usage, just modify the keywords name with your own language.
 </p>
