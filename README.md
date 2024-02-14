@@ -174,6 +174,7 @@ ses korlam
 This loop print the values of i from 1 to 10  taking 1 second of pause for it's each iteration.
 
 <h2 align="center">Example</h2>
+
 ```desi
 suru korlam
 eta holo a= 10
@@ -202,7 +203,6 @@ nahole
 {
 	dekhao to str
 }
-
 eta holo i=0
 joto khon (i<10)
 {
@@ -214,9 +214,10 @@ dariye ja
 dekhao to i
 dara 1000
 }
-ses korlam```
+ses korlam
 
-<h2 align="center">Add your own keywords <h2>
+```
+<h2 align="center">Add your own keywords </h2>
 <p align="center">If you want to add your own keyword in this language, then you can change with your own keyword. Because here I provide all the source code .java files. 
 To create your own <code>keywords</code> just edit keywords.java file.
 there you can find all the keywords with there usage, just modify the keywords name with your own language.
