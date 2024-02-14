@@ -176,39 +176,27 @@ This loop print the values of i from 1 to 10  taking 1 second of pause for it's 
 <h2 align="center">Example</h2>
 ```desi
 suru korlam
-
 eta holo a= 10
-
 eta holo b= 0
-
 eta holo c = thik
 eta holo str ="who are you"
-
 dekhao to "Hello","Hi bro"
-
 dekhao to "Hi","Bro who are you"
-
 dekhao to a
-
 dekhao to c
-
 eta holo d=a+a
-
 dekhao to d
-
 a++
-
 a=10+20
-
 
 jodi (vul)
 {
 	dekhao to "Hello"
 }
-nahoi jodi 	(thik)
+nahoi jodi (thik)
 
 {
-		dekhao to "hello"
+	dekhao to "hello"
 }
 nahole
 {
@@ -216,25 +204,18 @@ nahole
 }
 
 eta holo i=0
-
-  joto khon (i<10)
-
+joto khon (i<10)
 {
-		i++
-		jodi (i==2)
-		porer ta dehk
-
+	i++
+	jodi (i==2)
+	porer ta dehk
 jodi (i==5)
-		dariye ja
-
-
+dariye ja
 dekhao to i
 dara 1000
 }
+ses korlam```
 
-ses korlam
-
-```
 <h2 align="center">Add your own keywords <h2>
 <p align="center">If you want to add your own keyword in this language, then you can change with your own keyword. Because here I provide all the source code .java files. 
 
