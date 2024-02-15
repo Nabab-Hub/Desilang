@@ -72,7 +72,7 @@ Output:
 10,20.5,Ahidulla
 ```
 
-<h2 align="center">Dta Types</h2>
+<h2 align="center">Data Types</h2>
 
 <p align="center">To declare numbers, string we have only one keyword that is <code>eta holo</code>. To create boolean and null values some special keyword are there they are <code>thik</code>, <code>vul</code> & <code>kichuna</code> instead of <code>true</code>, <code>false</code> & <code>null</code>.</p>
 
