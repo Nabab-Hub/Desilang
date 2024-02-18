@@ -52,9 +52,9 @@ here also we can't write
 ```
 
 <h2 align="center">Variables <code>eta holo</code></h2>
-- variable can be declared using `eta holo` keyword (or you can write your own keyword to modifying the keyword interface).
-- variable should be intialise at the time of creation else it give compile-time error.
-- Variable name only should be alphabet (no special symbol and numeric values are allowed)
+<p>- variable can be declared using `eta holo` keyword (or you can write your own keyword to modifying the keyword interface).</p><br>
+<p>- variable should be intialise at the time of creation else it give compile-time error.</p><br>
+<p>- Variable name only should be alphabet (no special symbol and numeric values are allowed)</p>
 
 
 `Eg:`
